@@ -1,0 +1,14 @@
+Base path: C:/Program Files/Unity/Hub/Editor/2018.3.14f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at (0): Program 'NoiseMain', warning X4714: sum of temp registers and indexable temp registers times 512 threads exceeds the recommended total 16384.  Performance may be reduced
+  api=4 insize=3930 outsize=18153 ok=1
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
