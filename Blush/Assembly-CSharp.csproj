@@ -102,19 +102,19 @@
     <None Include="Assets\RPG Character Animation Pack FREE\SuperCharacterController\SuperCharacterController\README.txt" />
     <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/jenpo/Desktop/Blush/Blush/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/jenpo/Documents/GitHub/CART415_Blush/Blush/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/jenpo/Desktop/Blush/Blush/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/jenpo/Documents/GitHub/CART415_Blush/Blush/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/jenpo/Desktop/Blush/Blush/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/jenpo/Documents/GitHub/CART415_Blush/Blush/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/jenpo/Desktop/Blush/Blush/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/jenpo/Documents/GitHub/CART415_Blush/Blush/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>C:/Users/jenpo/Desktop/Blush/Blush/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>C:/Users/jenpo/Documents/GitHub/CART415_Blush/Blush/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.14f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -318,22 +318,22 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.14f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="RSG.Promise">
-      <HintPath>C:/Users/jenpo/Desktop/Blush/Blush/Assets/Rokoko/MotionLibrary/Plugins/RSG.Promise.dll</HintPath>
+      <HintPath>C:/Users/jenpo/Documents/GitHub/CART415_Blush/Blush/Assets/Rokoko/MotionLibrary/Plugins/RSG.Promise.dll</HintPath>
     </Reference>
     <Reference Include="Rollbar">
-      <HintPath>C:/Users/jenpo/Desktop/Blush/Blush/Assets/Rokoko/MotionLibrary/Plugins/Rollbar/Rollbar.dll</HintPath>
+      <HintPath>C:/Users/jenpo/Documents/GitHub/CART415_Blush/Blush/Assets/Rokoko/MotionLibrary/Plugins/Rollbar/Rollbar.dll</HintPath>
     </Reference>
     <Reference Include="SharpRaven">
-      <HintPath>C:/Users/jenpo/Desktop/Blush/Blush/Assets/Rokoko/MotionLibrary/Plugins/Sentry/SharpRaven.dll</HintPath>
+      <HintPath>C:/Users/jenpo/Documents/GitHub/CART415_Blush/Blush/Assets/Rokoko/MotionLibrary/Plugins/Sentry/SharpRaven.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>C:/Users/jenpo/Desktop/Blush/Blush/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>C:/Users/jenpo/Documents/GitHub/CART415_Blush/Blush/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>C:/Users/jenpo/Desktop/Blush/Blush/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/jenpo/Documents/GitHub/CART415_Blush/Blush/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>C:/Users/jenpo/Desktop/Blush/Blush/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>C:/Users/jenpo/Documents/GitHub/CART415_Blush/Blush/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.14f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
